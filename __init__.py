@@ -1,0 +1,1 @@
+from compressed.reader import Reader
