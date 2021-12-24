@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba73f82b-983c-46fd-8854-473764c9eca7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/callable_instance/resolver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/callable_instance/extended_call_syntax.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/callable_instance/resolver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="405">
+              <caret line="38" column="63" selection-start-line="38" selection-start-column="63" selection-end-line="38" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/callable_instance/extended_call_syntax.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -94,6 +103,7 @@
         <option value="$PROJECT_DIR$/packages_first.py" />
         <option value="$PROJECT_DIR$/executable_directory/__main__.py" />
         <option value="$PROJECT_DIR$/callable_instance/resolver.py" />
+        <option value="$PROJECT_DIR$/callable_instance/extended_call_syntax.py" />
       </list>
     </option>
   </component>
@@ -219,7 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640312084015</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added callable classes">
+      <created>1640325029878</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1640325029878</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added readble class for __call__ dunder">
+      <created>1640326200958</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1640326200958</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -250,7 +274,9 @@
     <MESSAGE value="checking merging effects in different branches" />
     <MESSAGE value="initial module and packages under main package" />
     <MESSAGE value="making a directory executable" />
-    <option name="LAST_COMMIT_MESSAGE" value="making a directory executable" />
+    <MESSAGE value="added callable classes" />
+    <MESSAGE value="added readble class for __call__ dunder" />
+    <option name="LAST_COMMIT_MESSAGE" value="added readble class for __call__ dunder" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/__init__.py">
@@ -296,8 +322,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/callable_instance/resolver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="405">
+          <caret line="38" column="63" selection-start-line="38" selection-start-column="63" selection-end-line="38" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callable_instance/extended_call_syntax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
