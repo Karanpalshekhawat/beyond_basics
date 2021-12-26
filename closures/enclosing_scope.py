@@ -22,9 +22,9 @@ print(lf(10))
 print(lf.__closure__)
 
 """
-Function factories are thos where we return funciton
+Function factories are thos where we return function
 
-used in the cases where we have one main argumnet applied to multiple call to inner
+used in the cases where we have one main argument applied to multiple call to inner
 
 and that main argument can also be changed
 """
@@ -44,3 +44,10 @@ print(cube.__closure__)
 print(square(5))
 
 print(cube(3))
+
+
+"""
+access any global variable using global keyword
+if you want to use enclosing variable, i.e. inside the container function or main function
+you have to use nonlocal keyword
+"""
