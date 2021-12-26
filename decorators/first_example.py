@@ -10,7 +10,10 @@ which as passed as an object to the decorator function
 # converts to ascii
 
 def ascii_decorator(f):
-    """ Same funcitnality to multiple functions"""
+    """
+    Same funcitnality to multiple functions
+    Because of closure functionality wrap can use f
+    """
     def wrap(*args, **kwargs):
         x = f(*args, **kwargs)
         return ascii(x)
