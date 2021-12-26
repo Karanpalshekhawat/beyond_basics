@@ -2,10 +2,12 @@
     can call inside that function
 """
 
+
 def sort_by_last(string):
     def last(s):
         # local function
         return s[-1]
+
     return sorted(string, key=last)
 
 
@@ -21,7 +23,9 @@ Local functions are not members of containing function.
 def outer():
     def inner():
         print("local function")
+
     return inner
+
 
 lf = outer()
 
