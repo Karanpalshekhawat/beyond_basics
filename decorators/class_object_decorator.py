@@ -33,3 +33,28 @@ hello("Jap")
 hello("kevin")
 
 print(hello.count)
+
+"""Different way of assigning a variable to object class, and then using that as an decorator"""
+
+
+class Trace:
+
+    def __init__(self):
+        self.enabled = True
+
+    def __call__(self, f):
+
+        def wrap(*args, **kwargs):
+            if self.enabled:
+                print("Calling {}".format(f))
+                return f(*args, **kwargs)
+        return wrap
+
+tracer = Trace()
+
+@tracer
+def rotate_list(l):
+    return l[1:] + [l[0]]
+
+print(rotate_list([1,2,3]))
+print(rotate_list([4,5,6]))
