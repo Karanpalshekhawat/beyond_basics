@@ -10,12 +10,13 @@ class Trace:
         self.enabled = True
 
     def __call__(self, f):
-
         def wrap(*args, **kwargs):
             if self.enabled:
                 print("Calling {}".format(f))
                 return f(*args, **kwargs)
+
         return wrap
+
 
 tracer = Trace()
 
@@ -24,6 +25,7 @@ def upper_case(f):
     def wrap(*args, **kwargs):
         x = f(*args, **kwargs)
         return x.upper()
+
     return wrap
 
 
@@ -31,4 +33,3 @@ def upper_case(f):
 @upper_case
 def string_map(name):
     return name
-
