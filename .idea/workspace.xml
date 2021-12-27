@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba73f82b-983c-46fd-8854-473764c9eca7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/attributes/class_method_as_alternative_constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_and_static_methods/static_method.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attributes/class_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_and_static_methods/class_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attributes/class_method_as_alternative_constructor.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_and_static_methods/class_method_as_alternative_constructor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attributes/class_method_example_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_and_static_methods/class_method_example_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance/static_method.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +45,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/attributes/class_method.py">
+        <entry file="file://$PROJECT_DIR$/class_and_static_methods/class_method.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-136">
               <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
@@ -49,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/inheritance/static_method.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/class_and_static_methods/static_method.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+            <state relative-caret-position="480">
+              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -61,14 +65,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inheritance/subclass_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1">
-              <caret line="9" selection-start-line="9" selection-end-line="22" selection-end-column="49" />
+            <state relative-caret-position="405">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/attributes/class_method_example_2.py">
+        <entry file="file://$PROJECT_DIR$/class_and_static_methods/class_method_example_2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="22" selection-start-line="22" selection-end-line="23" selection-end-column="41" />
@@ -76,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/attributes/class_method_as_alternative_constructor.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class_and_static_methods/class_method_as_alternative_constructor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="42" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -133,11 +137,12 @@
         <option value="$PROJECT_DIR$/decorators/multiple_decorator.py" />
         <option value="$PROJECT_DIR$/decorators/check_non_negative.py" />
         <option value="$PROJECT_DIR$/attributes/class_attributes.py" />
-        <option value="$PROJECT_DIR$/inheritance/static_method.py" />
         <option value="$PROJECT_DIR$/inheritance/subclass_example.py" />
         <option value="$PROJECT_DIR$/attributes/class_method.py" />
         <option value="$PROJECT_DIR$/attributes/class_method_example_2.py" />
         <option value="$PROJECT_DIR$/attributes/class_method_as_alternative_constructor.py" />
+        <option value="$PROJECT_DIR$/inheritance/static_method.py" />
+        <option value="$PROJECT_DIR$/class_and_static_methods/static_method.py" />
       </list>
     </option>
   </component>
@@ -161,16 +166,6 @@
             <path>
               <item name="Plural_sight_python_course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Plural_sight_python_course" type="462c0819:PsiDirectoryNode" />
-              <item name="attributes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Plural_sight_python_course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Plural_sight_python_course" type="462c0819:PsiDirectoryNode" />
-              <item name="decorators" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Plural_sight_python_course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Plural_sight_python_course" type="462c0819:PsiDirectoryNode" />
               <item name="inheritance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -187,6 +182,11 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/class_and_static_methods" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -199,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.class_method_as_alternative_constructor">
+  <component name="RunManager" selected="Python.static_method">
     <configuration name="class_attributes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Plural_sight_python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,7 +233,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/attributes/class_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_and_static_methods/class_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,7 +254,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/attributes/class_method_as_alternative_constructor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_and_static_methods/class_method_as_alternative_constructor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +275,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/attributes/class_method_example_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_and_static_methods/class_method_example_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_object_decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="static_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Plural_sight_python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,11 +292,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/decorators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_and_static_methods" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorators/class_object_decorator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_and_static_methods/static_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,11 +307,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.static_method" />
         <item itemvalue="Python.class_method_as_alternative_constructor" />
         <item itemvalue="Python.class_method_example_2" />
         <item itemvalue="Python.class_method" />
         <item itemvalue="Python.class_attributes" />
-        <item itemvalue="Python.class_object_decorator" />
       </list>
     </recent_temporary>
   </component>
@@ -473,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640591967200</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="class method as alternate constructor">
+      <created>1640601812411</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1640601812411</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -481,15 +488,15 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.43855423" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="2" visible="true" weight="0.5108434" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.5108434" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -521,7 +528,8 @@
     <MESSAGE value="class methods details" />
     <MESSAGE value="inheritance usage of subclasses" />
     <MESSAGE value="class method example" />
-    <option name="LAST_COMMIT_MESSAGE" value="class method example" />
+    <MESSAGE value="class method as alternate constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="class method as alternate constructor" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/__init__.py">
@@ -614,13 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inheritance/static_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/callable_instance/extended_call_syntax.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -642,7 +643,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/attributes/class_method.py">
+    <entry file="file://$PROJECT_DIR$/class_and_static_methods/class_method.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-136">
           <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
@@ -651,22 +652,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inheritance/subclass_example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="9" selection-start-line="9" selection-end-line="22" selection-end-column="49" />
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/attributes/class_method_example_2.py">
+    <entry file="file://$PROJECT_DIR$/class_and_static_methods/class_method_example_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" selection-start-line="22" selection-end-line="23" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/attributes/class_method_as_alternative_constructor.py">
+    <entry file="file://$PROJECT_DIR$/class_and_static_methods/class_method_as_alternative_constructor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_and_static_methods/static_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
         </state>
       </provider>
     </entry>
