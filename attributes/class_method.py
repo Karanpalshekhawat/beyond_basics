@@ -1,6 +1,8 @@
 """
 Class method decorator,
-function that we use everytime we instantiate class
+function that we use everytime we instantiate class.
+
+Tp update class variables in all the instances of class.
 """
 
 
