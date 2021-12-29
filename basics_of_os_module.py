@@ -29,3 +29,8 @@ for dirpath, dirname, filename in os.walk(os.getcwd()):
 print(os.environ.get('PATH'))
 # path joins, helps in handy when we don't know where to add slashes
 os.path.join("path1", "path2")
+
+
+"""
+os.path.splitext("filename") for removing the extension of the file
+"""

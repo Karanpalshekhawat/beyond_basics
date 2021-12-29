@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba73f82b-983c-46fd-8854-473764c9eca7" name="Default Changelist" comment="generator example">
-      <change afterPath="$PROJECT_DIR$/basics_of_os_module.py" afterDir="false" />
+    <list default="true" id="ba73f82b-983c-46fd-8854-473764c9eca7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tr_except_block.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics_of_os_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics_of_os_module.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basics_of_os_module.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="314">
-              <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
+              <caret line="34" column="67" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tr_except_block.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -62,6 +72,7 @@
         <option value="$PROJECT_DIR$/property_decorator/property_deco_example.py" />
         <option value="$PROJECT_DIR$/generators/generator_example.py" />
         <option value="$PROJECT_DIR$/basics_of_os_module.py" />
+        <option value="$PROJECT_DIR$/tr_except_block.py" />
       </list>
     </option>
   </component>
@@ -113,7 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.basics_of_os_module">
+  <component name="RunManager" selected="Python.tr_except_block">
     <configuration name="basics_of_os_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Plural_sight_python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="static_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tr_except_block" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Plural_sight_python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,11 +217,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_and_static_methods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_and_static_methods/static_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tr_except_block.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tr_except_block" />
         <item itemvalue="Python.basics_of_os_module" />
         <item itemvalue="Python.generator_example" />
         <item itemvalue="Python.property_deco_example" />
         <item itemvalue="Python.dunder_repr_str" />
-        <item itemvalue="Python.static_method" />
       </list>
     </recent_temporary>
   </component>
@@ -429,22 +440,30 @@
       <option name="project" value="LOCAL" />
       <updated>1640685193353</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="basics of os module">
+      <created>1640756714962</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1640756714962</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.43855423" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5003524" side_tool="true" weight="0.5108434" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="2" sideWeight="0.49964765" visible="true" weight="0.5108434" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49964765" weight="0.5108434" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49964765" weight="0.27710843" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49964765" visible="true" weight="0.27710843" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -455,7 +474,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="checking merging effects in different branches" />
     <MESSAGE value="initial module and packages under main package" />
     <MESSAGE value="making a directory executable" />
     <MESSAGE value="added callable classes" />
@@ -480,7 +498,8 @@
     <MESSAGE value="some more dunder examples" />
     <MESSAGE value="getter, setter and deleter" />
     <MESSAGE value="generator example" />
-    <option name="LAST_COMMIT_MESSAGE" value="generator example" />
+    <MESSAGE value="basics of os module" />
+    <option name="LAST_COMMIT_MESSAGE" value="basics of os module" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/__init__.py">
@@ -653,7 +672,14 @@
     <entry file="file://$PROJECT_DIR$/basics_of_os_module.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
-          <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
+          <caret line="34" column="67" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tr_except_block.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
