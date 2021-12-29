@@ -7,7 +7,7 @@ finally runs no matter what whether we their is exception or not
 bad_assignment = 'var'
 self_rasising_exception = True
 try:
-    f = open("file_random.txt")
+    f = open("file_random_3.txt")
     var = bad_assignment
     if self_rasising_exception:
         raise Exception("Seeing self caught exception impact")
