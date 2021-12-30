@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba73f82b-983c-46fd-8854-473764c9eca7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/random_concepts/fstring_advanced_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random_concepts/namedtuple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/random_concepts/fstring_advanced_example.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
-              <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+              <caret line="40" column="68" lean-forward="true" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/random_concepts/namedtuple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -95,6 +104,7 @@
         <option value="$PROJECT_DIR$/random_concepts/tr_except_block.py" />
         <option value="$PROJECT_DIR$/random_concepts/fstring_example.py" />
         <option value="$PROJECT_DIR$/random_concepts/fstring_advanced_example.py" />
+        <option value="$PROJECT_DIR$/random_concepts/namedtuple.py" />
       </list>
     </option>
   </component>
@@ -152,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fstring_advanced_example">
+  <component name="RunManager" selected="Python.namedtuple">
     <configuration name="basics_of_os_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Plural_sight_python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="generator_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="namedtuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Plural_sight_python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,11 +234,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/random_concepts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generators/generator_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_concepts/namedtuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.namedtuple" />
         <item itemvalue="Python.fstring_advanced_example" />
         <item itemvalue="Python.duck_typing_eafp" />
         <item itemvalue="Python.tr_except_block" />
         <item itemvalue="Python.basics_of_os_module" />
-        <item itemvalue="Python.generator_example" />
       </list>
     </recent_temporary>
   </component>
@@ -489,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640767427534</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="f strings example">
+      <created>1640832363294</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1640832363294</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -497,7 +514,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.43855423" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5003524" side_tool="true" weight="0.5108434" />
@@ -505,7 +522,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49964765" visible="true" weight="0.27710843" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49964765" visible="true" weight="0.27710843" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -516,7 +533,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added callable classes" />
     <MESSAGE value="added readble class for __call__ dunder" />
     <MESSAGE value="*args . and **kwargs" />
     <MESSAGE value="better way to trasnspose" />
@@ -541,7 +557,8 @@
     <MESSAGE value="basics of os module" />
     <MESSAGE value="basic into to catching exception" />
     <MESSAGE value="duck typing EAFP" />
-    <option name="LAST_COMMIT_MESSAGE" value="duck typing EAFP" />
+    <MESSAGE value="f strings example" />
+    <option name="LAST_COMMIT_MESSAGE" value="f strings example" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/__init__.py">
@@ -735,7 +752,14 @@
     <entry file="file://$PROJECT_DIR$/random_concepts/fstring_advanced_example.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+          <caret line="40" column="68" lean-forward="true" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/random_concepts/namedtuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>
