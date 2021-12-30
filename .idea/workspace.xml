@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba73f82b-983c-46fd-8854-473764c9eca7" name="Default Changelist" comment="basic into to catching exception">
-      <change afterPath="$PROJECT_DIR$/random_concepts/duck_typing_eafp.py" afterDir="false" />
+    <list default="true" id="ba73f82b-983c-46fd-8854-473764c9eca7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/random_concepts/fstring_advanced_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics_of_os_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_concepts/basics_of_os_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/better_way_transpose_list_of_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_concepts/better_way_transpose_list_of_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dunder_repr_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_concepts/dunder_repr_str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages_first.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_concepts/packages_first.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subpacakges.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_concepts/subpacakges.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tr_except_block.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_concepts/tr_except_block.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,11 +22,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/random_concepts/tr_except_block.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="224">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/random_concepts/fstring_advanced_example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -90,6 +93,8 @@
         <option value="$PROJECT_DIR$/duck_typing_eafp.py" />
         <option value="$PROJECT_DIR$/random_concepts/duck_typing_eafp.py" />
         <option value="$PROJECT_DIR$/random_concepts/tr_except_block.py" />
+        <option value="$PROJECT_DIR$/random_concepts/fstring_example.py" />
+        <option value="$PROJECT_DIR$/random_concepts/fstring_advanced_example.py" />
       </list>
     </option>
   </component>
@@ -147,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.duck_typing_eafp">
+  <component name="RunManager" selected="Python.fstring_advanced_example">
     <configuration name="basics_of_os_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Plural_sight_python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,6 +195,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="fstring_advanced_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Plural_sight_python_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/random_concepts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_concepts/fstring_advanced_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="generator_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Plural_sight_python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,27 +229,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generators/generator_example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="property_deco_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Plural_sight_python_course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/property_decorator" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/property_decorator/property_deco_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fstring_advanced_example" />
         <item itemvalue="Python.duck_typing_eafp" />
         <item itemvalue="Python.tr_except_block" />
         <item itemvalue="Python.basics_of_os_module" />
         <item itemvalue="Python.generator_example" />
-        <item itemvalue="Python.property_deco_example" />
       </list>
     </recent_temporary>
   </component>
@@ -477,22 +482,30 @@
       <option name="project" value="LOCAL" />
       <updated>1640763416769</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="duck typing EAFP">
+      <created>1640767427534</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1640767427534</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.43855423" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5003524" side_tool="true" weight="0.5108434" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49964765" visible="true" weight="0.5108434" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49964765" weight="0.5108434" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49964765" weight="0.27710843" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49964765" visible="true" weight="0.27710843" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -503,7 +516,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="making a directory executable" />
     <MESSAGE value="added callable classes" />
     <MESSAGE value="added readble class for __call__ dunder" />
     <MESSAGE value="*args . and **kwargs" />
@@ -528,7 +540,8 @@
     <MESSAGE value="generator example" />
     <MESSAGE value="basics of os module" />
     <MESSAGE value="basic into to catching exception" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic into to catching exception" />
+    <MESSAGE value="duck typing EAFP" />
+    <option name="LAST_COMMIT_MESSAGE" value="duck typing EAFP" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/__init__.py">
@@ -714,8 +727,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/random_concepts/tr_except_block.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="224">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/random_concepts/fstring_advanced_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
         </state>
       </provider>
     </entry>
