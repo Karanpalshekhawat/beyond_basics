@@ -1,0 +1,4 @@
+this is a file
+checking test criterion
+whether to close it again or not
+final statement
