@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba73f82b-983c-46fd-8854-473764c9eca7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web_scraping_beautiful_soup/real_site_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_scraping_beautiful_soup/simple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_scraping_beautiful_soup/soup_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Plural_sight_python_course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Plural_sight_python_course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Context_manager/file_open_exit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Context_manager/file_random.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,43 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/random_concepts/duck_typing_eafp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web_scraping_beautiful_soup/soup_example.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web_scraping_beautiful_soup/real_site_example.py">
+        <entry file="file://$PROJECT_DIR$/Context_manager/file_open_exit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="705">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#244#253#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web_scraping_beautiful_soup/simple.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Context_manager/file_random.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -113,13 +89,7 @@
         <option value="$PROJECT_DIR$/web_scraping_beautiful_soup/first_example.py" />
         <option value="$PROJECT_DIR$/web_scraping_beautiful_soup/soup_example.py" />
         <option value="$PROJECT_DIR$/web_scraping_beautiful_soup/real_site_example.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/Context_manager/file_open_exit.py" />
       </list>
     </option>
   </component>
@@ -144,7 +114,12 @@
             <path>
               <item name="Plural_sight_python_course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Plural_sight_python_course" type="462c0819:PsiDirectoryNode" />
-              <item name="web_scraping_beautiful_soup" type="462c0819:PsiDirectoryNode" />
+              <item name="Context_manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Plural_sight_python_course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Plural_sight_python_course" type="462c0819:PsiDirectoryNode" />
+              <item name="file_reading_and_writing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,9 +130,13 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Context_manager" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Context_manager" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/file_reading_and_writing" />
       <recent name="$PROJECT_DIR$/random_concepts" />
@@ -176,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.real_site_example">
+  <component name="RunManager" selected="Python.file_open_exit">
     <configuration name="file_objects_handling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Plural_sight_python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,6 +169,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_reading_and_writing/file_objects_handling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_open_exit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Plural_sight_python_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Context_manager" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Context_manager/better_way_handling_change_directories.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,27 +240,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="json_first_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Plural_sight_python_course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/json" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json/json_first_example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="real_site_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Plural_sight_python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.file_open_exit" />
         <item itemvalue="Python.real_site_example" />
         <item itemvalue="Python.first_example (1)" />
         <item itemvalue="Python.first_example" />
         <item itemvalue="Python.file_objects_handling" />
-        <item itemvalue="Python.json_first_example" />
       </list>
     </recent_temporary>
   </component>
@@ -548,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640939521209</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="soup intro">
+      <created>1641273841707</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1641273841707</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -560,11 +546,11 @@
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.43855423" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5003524" side_tool="true" weight="0.5108434" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="2" sideWeight="0.49964765" visible="true" weight="0.4554217" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49964765" weight="0.4554217" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49964765" weight="0.38072288" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49964765" visible="true" weight="0.38072288" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -575,7 +561,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="returning functions from inside function" />
     <MESSAGE value="factory functions" />
     <MESSAGE value="decorator first example" />
     <MESSAGE value="class decorator" />
@@ -600,7 +585,8 @@
     <MESSAGE value="intro to handling json" />
     <MESSAGE value="handling file objects" />
     <MESSAGE value="timezones and datetime module" />
-    <option name="LAST_COMMIT_MESSAGE" value="timezones and datetime module" />
+    <MESSAGE value="soup intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="soup intro" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/compressed/reader.py">
@@ -843,17 +829,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/random_concepts/duck_typing_eafp.py">
+    <entry file="file://$PROJECT_DIR$/web_scraping_beautiful_soup/real_site_example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web_scraping_beautiful_soup/simple.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -864,12 +846,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web_scraping_beautiful_soup/real_site_example.py">
+    <entry file="file://$PROJECT_DIR$/random_concepts/duck_typing_eafp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="225">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_scraping_beautiful_soup/simple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Context_manager/file_random.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Context_manager/sample_usning_contect.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Applications/anaconda3/lib/python3.7/contextlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8353">
+          <caret line="95" column="6" selection-start-line="95" selection-start-column="6" selection-end-line="95" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Context_manager/file_open_exit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#244#253#0" expanded="true" />
           </folding>
         </state>
       </provider>
