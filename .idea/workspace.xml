@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba73f82b-983c-46fd-8854-473764c9eca7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Context_manager/file_open_exit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Context_manager/file_random.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql_lite_handling_with_python/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql_lite_handling_with_python/sql_lite_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Context_manager/file_open_exit.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Context_manager/better_way_handling_change_directories.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="705">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <element signature="e#244#253#0" expanded="true" />
               </folding>
@@ -27,8 +27,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Context_manager/file_random.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/property_decorator/property_deco_example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="44" column="4" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="46" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sql_lite_handling_with_python/employee.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sql_lite_handling_with_python/sql_lite_example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+              <folding>
+                <element signature="e#25#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -90,6 +115,8 @@
         <option value="$PROJECT_DIR$/web_scraping_beautiful_soup/soup_example.py" />
         <option value="$PROJECT_DIR$/web_scraping_beautiful_soup/real_site_example.py" />
         <option value="$PROJECT_DIR$/Context_manager/file_open_exit.py" />
+        <option value="$PROJECT_DIR$/sql_lite_handling_with_python/employee.py" />
+        <option value="$PROJECT_DIR$/sql_lite_handling_with_python/sql_lite_example.py" />
       </list>
     </option>
   </component>
@@ -114,12 +141,7 @@
             <path>
               <item name="Plural_sight_python_course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Plural_sight_python_course" type="462c0819:PsiDirectoryNode" />
-              <item name="Context_manager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Plural_sight_python_course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Plural_sight_python_course" type="462c0819:PsiDirectoryNode" />
-              <item name="file_reading_and_writing" type="462c0819:PsiDirectoryNode" />
+              <item name="sql_lite_handling_with_python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,28 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.file_open_exit">
-    <configuration name="file_objects_handling" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Plural_sight_python_course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_reading_and_writing/file_objects_handling.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sql_lite_example">
     <configuration name="file_open_exit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Plural_sight_python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,13 +262,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sql_lite_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Plural_sight_python_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sql_lite_handling_with_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sql_lite_handling_with_python/sql_lite_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sql_lite_example" />
         <item itemvalue="Python.file_open_exit" />
         <item itemvalue="Python.real_site_example" />
         <item itemvalue="Python.first_example (1)" />
         <item itemvalue="Python.first_example" />
-        <item itemvalue="Python.file_objects_handling" />
       </list>
     </recent_temporary>
   </component>
@@ -534,15 +556,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641273841707</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="context manager in changing directories">
+      <created>1641279891900</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1641279891900</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.43855423" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5003524" side_tool="true" weight="0.5108434" />
@@ -550,7 +578,7 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49964765" visible="true" weight="0.38072288" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49964765" visible="true" weight="0.38072288" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -561,7 +589,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="factory functions" />
     <MESSAGE value="decorator first example" />
     <MESSAGE value="class decorator" />
     <MESSAGE value="second exmaple of class decorator" />
@@ -586,7 +613,8 @@
     <MESSAGE value="handling file objects" />
     <MESSAGE value="timezones and datetime module" />
     <MESSAGE value="soup intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="soup intro" />
+    <MESSAGE value="context manager in changing directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="context manager in changing directories" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/compressed/reader.py">
@@ -704,13 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/property_decorator/property_deco_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
         </state>
       </provider>
     </entry>
@@ -873,12 +894,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Context_manager/file_open_exit.py">
+    <entry file="file://$PROJECT_DIR$/Context_manager/better_way_handling_change_directories.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
             <element signature="e#244#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/property_decorator/property_deco_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="44" column="4" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="46" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql_lite_handling_with_python/employee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql_lite_handling_with_python/sql_lite_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+          <folding>
+            <element signature="e#25#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
