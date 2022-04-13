@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba73f82b-983c-46fd-8854-473764c9eca7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Sets_example/first_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit_testing/test_employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit_testing/test_employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit_testing/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit_testing/employee.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unit_testing/employee.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="34" />
+            <state relative-caret-position="450">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sets_example/first_example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -89,7 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/subpacakges.py" />
         <option value="$PROJECT_DIR$/compressed/reader.py" />
         <option value="$PROJECT_DIR$/packages_first.py" />
         <option value="$PROJECT_DIR$/executable_directory/__main__.py" />
@@ -139,6 +148,8 @@
         <option value="$PROJECT_DIR$/unit_testing/test_calc.py" />
         <option value="$PROJECT_DIR$/unit_testing/Employee.py" />
         <option value="$PROJECT_DIR$/unit_testing/test_employee.py" />
+        <option value="$PROJECT_DIR$/unit_testing/employee.py" />
+        <option value="$PROJECT_DIR$/Sets_example/first_example.py" />
       </list>
     </option>
   </component>
@@ -163,7 +174,7 @@
             <path>
               <item name="corey_youtube" type="b2602c69:ProjectViewProjectNode" />
               <item name="corey_youtube" type="462c0819:PsiDirectoryNode" />
-              <item name="unit_testing" type="462c0819:PsiDirectoryNode" />
+              <item name="Sets_example" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_employee">
+  <component name="RunManager" selected="Python.first_example">
     <configuration name="file_open_exit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Plural_sight_python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="real_site_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="first_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Plural_sight_python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,11 +240,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_scraping_beautiful_soup" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sets_example" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_scraping_beautiful_soup/real_site_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets_example/first_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,11 +318,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.first_example" />
         <item itemvalue="Python.test_employee" />
         <item itemvalue="Python.test_calc" />
         <item itemvalue="Python.sql_lite_example" />
         <item itemvalue="Python.file_open_exit" />
-        <item itemvalue="Python.real_site_example" />
       </list>
     </recent_temporary>
   </component>
@@ -620,7 +631,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649810812120</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="some example of unit testing">
+      <created>1649814359681</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1649814359681</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -630,13 +648,13 @@
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2642706" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.43855423" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.43855423" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5003524" side_tool="true" weight="0.5108434" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49964765" weight="0.4554217" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49964765" weight="0.4686747" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49964765" weight="0.42891565" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49964765" visible="true" weight="0.42891565" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -647,7 +665,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="decorator with arguments" />
     <MESSAGE value="class attributes" />
     <MESSAGE value="class methods details" />
     <MESSAGE value="inheritance usage of subclasses" />
@@ -672,7 +689,8 @@
     <MESSAGE value="first unit test" />
     <MESSAGE value="employee unit testing example" />
     <MESSAGE value="full name and apply raise added" />
-    <option name="LAST_COMMIT_MESSAGE" value="full name and apply raise added" />
+    <MESSAGE value="some example of unit testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="some example of unit testing" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/compressed/reader.py">
@@ -1010,8 +1028,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unit_testing/employee.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="34" />
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sets_example/first_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
