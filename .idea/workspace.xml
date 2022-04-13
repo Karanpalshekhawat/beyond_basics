@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba73f82b-983c-46fd-8854-473764c9eca7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/unit_testing/employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testing/test_employee.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit_testing/test_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit_testing/test_calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit_testing/test_employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit_testing/test_employee.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,22 +31,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/unit_testing/employee.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="435">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unit_testing/test_employee.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#391#406#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unit_testing/test_calc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+            <state relative-caret-position="347">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="38" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -608,7 +606,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649808383727</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="employee unit testing example">
+      <created>1649810290179</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1649810290179</updated>
+    </task>
+    <task id="LOCAL-00042" summary="full name and apply raise added">
+      <created>1649810812120</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1649810812120</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -616,15 +628,15 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2642706" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2642706" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.43855423" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.43855423" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5003524" side_tool="true" weight="0.5108434" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49964765" weight="0.4554217" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49964765" visible="true" weight="0.38072288" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49964765" weight="0.42891565" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -635,8 +647,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="second exmaple of class decorator" />
-    <MESSAGE value="multiple decorator example" />
     <MESSAGE value="decorator with arguments" />
     <MESSAGE value="class attributes" />
     <MESSAGE value="class methods details" />
@@ -660,7 +670,9 @@
     <MESSAGE value="context manager in changing directories" />
     <MESSAGE value="sqlite tutorial" />
     <MESSAGE value="first unit test" />
-    <option name="LAST_COMMIT_MESSAGE" value="first unit test" />
+    <MESSAGE value="employee unit testing example" />
+    <MESSAGE value="full name and apply raise added" />
+    <option name="LAST_COMMIT_MESSAGE" value="full name and apply raise added" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/compressed/reader.py">
@@ -978,28 +990,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unit_testing/test_calc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        <state relative-caret-position="347">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="38" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit_testing/test_employee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#391#406#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/unit_testing/employee.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unit_testing/test_employee.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="435">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="34" />
         </state>
       </provider>
     </entry>
