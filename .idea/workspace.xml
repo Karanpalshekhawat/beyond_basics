@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba73f82b-983c-46fd-8854-473764c9eca7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Sets_example/first_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterators_iterables/add_iterable_to_own_classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterators_iterables/demo_first.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit_testing/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit_testing/employee.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +41,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sets_example/first_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="270">
+              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iterators_iterables/demo_first.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="60" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/iterators_iterables/add_iterable_to_own_classes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -99,8 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/compressed/reader.py" />
-        <option value="$PROJECT_DIR$/packages_first.py" />
         <option value="$PROJECT_DIR$/executable_directory/__main__.py" />
         <option value="$PROJECT_DIR$/callable_instance/resolver.py" />
         <option value="$PROJECT_DIR$/callable_instance/extended_call_syntax.py" />
@@ -150,6 +166,8 @@
         <option value="$PROJECT_DIR$/unit_testing/test_employee.py" />
         <option value="$PROJECT_DIR$/unit_testing/employee.py" />
         <option value="$PROJECT_DIR$/Sets_example/first_example.py" />
+        <option value="$PROJECT_DIR$/iterators_iterables/demo_first.py" />
+        <option value="$PROJECT_DIR$/iterators_iterables/add_iterable_to_own_classes.py" />
       </list>
     </option>
   </component>
@@ -174,7 +192,7 @@
             <path>
               <item name="corey_youtube" type="b2602c69:ProjectViewProjectNode" />
               <item name="corey_youtube" type="462c0819:PsiDirectoryNode" />
-              <item name="Sets_example" type="462c0819:PsiDirectoryNode" />
+              <item name="iterators_iterables" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -210,8 +228,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.first_example">
-    <configuration name="file_open_exit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.add_iterable_to_own_classes">
+    <configuration name="add_iterable_to_own_classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Plural_sight_python_course" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,11 +237,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Context_manager" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iterators_iterables" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Context_manager/better_way_handling_change_directories.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterators_iterables/add_iterable_to_own_classes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo_first" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Plural_sight_python_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/iterators_iterables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterators_iterables/demo_first.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,27 +284,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets_example/first_example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sql_lite_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Plural_sight_python_course" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sql_lite_handling_with_python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sql_lite_handling_with_python/sql_lite_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,11 +336,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.add_iterable_to_own_classes" />
+        <item itemvalue="Python.demo_first" />
         <item itemvalue="Python.first_example" />
         <item itemvalue="Python.test_employee" />
         <item itemvalue="Python.test_calc" />
-        <item itemvalue="Python.sql_lite_example" />
-        <item itemvalue="Python.file_open_exit" />
       </list>
     </recent_temporary>
   </component>
@@ -638,7 +656,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649814359681</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="examples of sets">
+      <created>1649888384618</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1649888384618</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -650,11 +675,11 @@
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.43855423" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5003524" side_tool="true" weight="0.5108434" />
-      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.49964765" weight="0.4686747" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="2" sideWeight="0.49964765" visible="true" weight="0.4686747" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49964765" visible="true" weight="0.42891565" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49964765" weight="0.42891565" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -665,7 +690,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="class attributes" />
     <MESSAGE value="class methods details" />
     <MESSAGE value="inheritance usage of subclasses" />
     <MESSAGE value="class method example" />
@@ -690,16 +714,10 @@
     <MESSAGE value="employee unit testing example" />
     <MESSAGE value="full name and apply raise added" />
     <MESSAGE value="some example of unit testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="some example of unit testing" />
+    <MESSAGE value="examples of sets" />
+    <option name="LAST_COMMIT_MESSAGE" value="examples of sets" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/compressed/reader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/random_concepts/subpacakges.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1035,8 +1053,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Sets_example/first_example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        <state relative-caret-position="270">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iterators_iterables/demo_first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="60" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iterators_iterables/add_iterable_to_own_classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
