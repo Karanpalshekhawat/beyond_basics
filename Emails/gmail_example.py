@@ -43,3 +43,17 @@ with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp_3:
 #     file_name = f.name
 #
 # msg.add_attachment(file_data, maintype='image', subtype=file_type, filename=file_name)
+
+"""
+Watch the video to look how to attache multiple attachments
+just loop around the files by declaring names in the list and
+attach it to iteration using msg.add_attachement
+"""
+
+"""
+Sending to multiple people email ids
+do it like below
+"""
+
+# contacts = ['karanpal@gmail.com', 'komalrathore@gmail']
+# msg['To'] = ', '.join(contacts)
