@@ -21,4 +21,15 @@ with smtplib.SMTP('smtp.gmail.com', 587) as smtp:
 
     msg = f'Subject: {subject}\n\n{body}'
 
-    smtp.sendmail(EMAIL_ADDRESS, 'karanpal609@gmail.com', msg)
+    # smtp.sendmail(EMAIL_ADDRESS, 'karanpal609@gmail.com', msg)
+
+"""Much better approach"""
+msg = EmailMessage()
+msg['Subject'] = "What the status of lunch?"
+msg['From'] = EMAIL_ADDRESS
+msg['To'] = 'karanpal609@gmail.com'
+msg.set_content("How about lunch on next monday")
+
+with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp_3:
+    smtp_3.login(EMAIL_ADDRESS, EMAIL_PASS)
+    smtp_3.send_message(msg)
