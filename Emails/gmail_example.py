@@ -3,6 +3,7 @@ Sending email example
 """
 
 import os
+import imghdr
 import smtplib
 from email.message import EmailMessage
 
@@ -33,3 +34,12 @@ msg.set_content("How about lunch on next monday")
 with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp_3:
     smtp_3.login(EMAIL_ADDRESS, EMAIL_PASS)
     smtp_3.send_message(msg)
+
+"""Email Attachment"""
+
+# with ('image.png', 'rd') as f:
+#     file_data = f.read()
+#     file_type = imghdr.what(f.name)  # help to find out the file type
+#     file_name = f.name
+#
+# msg.add_attachment(file_data, maintype='image', subtype=file_type, filename=file_name)

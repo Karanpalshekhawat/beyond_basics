@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba73f82b-983c-46fd-8854-473764c9eca7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Emails/gmail_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Emails/gmail_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Emails/gmail_example.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Emails/gmail_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            <state relative-caret-position="382">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="e#31#40#0" expanded="true" />
               </folding>
@@ -688,7 +688,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650142639757</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="first test case">
+      <created>1650241361719</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1650241361719</updated>
+    </task>
+    <task id="LOCAL-00048" summary="better way to send automatic email">
+      <created>1650241808743</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1650241808743</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -715,8 +729,6 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="class method example" />
-    <MESSAGE value="class method as alternate constructor" />
     <MESSAGE value="static methods example (no use of inheritance or class variables)" />
     <MESSAGE value="repr and str dunder methods" />
     <MESSAGE value="some more dunder examples" />
@@ -740,7 +752,9 @@
     <MESSAGE value="examples of sets" />
     <MESSAGE value="some examples of iterables" />
     <MESSAGE value="basis of request library" />
-    <option name="LAST_COMMIT_MESSAGE" value="basis of request library" />
+    <MESSAGE value="first test case" />
+    <MESSAGE value="better way to send automatic email" />
+    <option name="LAST_COMMIT_MESSAGE" value="better way to send automatic email" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/executable_directory/__main__.py">
@@ -1086,8 +1100,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Emails/gmail_example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        <state relative-caret-position="382">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="e#31#40#0" expanded="true" />
           </folding>
