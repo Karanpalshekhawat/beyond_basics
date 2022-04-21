@@ -1,5 +1,6 @@
-total 8
-drwxr-xr-x   4 karanpalsinghshekhawat  staff   128 Apr 21 05:16 .
+total 16
+drwxr-xr-x   5 karanpalsinghshekhawat  staff   160 Apr 21 05:28 .
 drwxr-xr-x  30 karanpalsinghshekhawat  staff   960 Apr 21 04:46 ..
--rw-r--r--   1 karanpalsinghshekhawat  staff  1158 Apr 21 05:16 subprocess_example.py
--rw-r--r--   1 karanpalsinghshekhawat  staff     0 Apr 21 05:16 test.txt
+-rw-r--r--   1 karanpalsinghshekhawat  staff  1679 Apr 21 05:28 subprocess_example.py
+-rw-r--r--   1 karanpalsinghshekhawat  staff     0 Apr 21 05:28 test.txt
+-rw-r--r--   1 karanpalsinghshekhawat  staff    39 Apr 21 05:22 testing_grep.txt

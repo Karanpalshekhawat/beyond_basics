@@ -1,6 +1,5 @@
 import subprocess
 
-
 """
 Because in mac, windows we have to use dir, we may have to give
 one more command in such as shell=True because dir command is built into shell
@@ -40,7 +39,14 @@ You can pass check=true to capture it within code it self
 p5 = subprocess.run(['ls', '-la', 'bjhbf'], capture_output=True, text=True)
 print(p5.stderr)
 
-
 """
 Grep is used to search the files for some contents
 """
+
+p6 = subprocess.run(['cat', 'testing_grep.txt'], capture_output=True, text=True)
+p7 = subprocess.run(['grep', '-n', 'testing'], capture_output=True, text=True, input=p6.stdout)
+print(p7.stdout)
+
+p8 = subprocess.run('cat testing_grep.txt', capture_output=True, text=True, shell=True)
+p9 = subprocess.run(['grep -n testing'], capture_output=True, text=True, input=p6.stdout, shell=True)
+print(p9.stdout)
